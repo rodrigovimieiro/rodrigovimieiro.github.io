@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. student at the University of São Paulo (USP)"
   location         : "São Carlos - Brazil"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com.br/citations?user=Wzx_3sMAAAAJ&hl=pt-BR"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Rodrigo_Vimieiro2"
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-0725-6506"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/8682939/rodrigo-vimieiro?tab=profile"
+  stackoverflow    : "8682939"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
